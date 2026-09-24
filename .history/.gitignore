@@ -1,0 +1,10 @@
+# KiCad local history exclusions. Edit to add your own rules.
+fp-info-cache
+*-backups/
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.tmp
+~*
