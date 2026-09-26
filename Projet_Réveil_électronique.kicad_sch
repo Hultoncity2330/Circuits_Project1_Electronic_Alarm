@@ -3173,6 +3173,12 @@
 		(uuid "93052a51-da5c-437a-bfad-05230a9c8881")
 	)
 	(junction
+		(at 140.97 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "941d7a98-fc3e-4e4c-b67a-26d4d7bbdef1")
+	)
+	(junction
 		(at 86.36 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3183,6 +3189,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a92cc483-5aa2-4b72-ba85-2c291eb8d82e")
+	)
+	(junction
+		(at 139.7 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad2b16ac-2abe-4181-ab10-b2b213f2747f")
 	)
 	(junction
 		(at 153.67 69.85)
@@ -3412,26 +3424,6 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 39.37) (xy 139.7 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1211b442-8b3b-4b34-9c9b-85dd8919163b")
-	)
-	(wire
-		(pts
-			(xy 144.78 90.17) (xy 142.24 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12945496-64b0-4f60-9009-604c09356431")
-	)
-	(wire
-		(pts
 			(xy 163.83 31.75) (xy 146.05 31.75)
 		)
 		(stroke
@@ -3572,6 +3564,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 113.03) (xy 90.17 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24b3a3b1-e84d-490f-96cd-0f2574079d1d")
+	)
+	(wire
+		(pts
 			(xy 194.31 34.29) (xy 212.09 34.29)
 		)
 		(stroke
@@ -3639,6 +3641,16 @@
 			(type default)
 		)
 		(uuid "3686b203-b3df-4a36-a30e-f63871a8747f")
+	)
+	(wire
+		(pts
+			(xy 142.24 124.46) (xy 132.08 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370d1c60-d549-48a1-97f0-3afa6bae3f59")
 	)
 	(wire
 		(pts
@@ -3712,7 +3724,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 52.07) (xy 163.83 52.07)
+			(xy 138.43 52.07) (xy 163.83 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3752,23 +3764,13 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 41.91) (xy 140.97 41.91)
+			(xy 138.43 44.45) (xy 138.43 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4adc5f75-25be-4ce1-b235-ae153d3629f4")
-	)
-	(wire
-		(pts
-			(xy 139.7 39.37) (xy 139.7 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e695fd3-851a-43f8-be6a-3e18d5cb26a5")
+		(uuid "47f84ac0-01d2-4330-b811-4b7b3e970b02")
 	)
 	(wire
 		(pts
@@ -3779,16 +3781,6 @@
 			(type default)
 		)
 		(uuid "52f9771d-09ba-4e10-9301-865d909ecd7d")
-	)
-	(wire
-		(pts
-			(xy 140.97 109.22) (xy 140.97 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "532d58a7-4666-4b12-b05a-87debaef658a")
 	)
 	(wire
 		(pts
@@ -3822,6 +3814,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 46.99) (xy 137.16 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5986c0af-523d-463a-8be3-85f449588073")
+	)
+	(wire
+		(pts
 			(xy 153.67 99.06) (xy 156.21 99.06)
 		)
 		(stroke
@@ -3849,16 +3851,6 @@
 			(type default)
 		)
 		(uuid "5d7af96f-80d4-4c4f-923e-244779a9c4e1")
-	)
-	(wire
-		(pts
-			(xy 123.19 46.99) (xy 143.51 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60f27c00-0244-4ab6-846b-e48317932468")
 	)
 	(wire
 		(pts
@@ -3899,6 +3891,26 @@
 			(type default)
 		)
 		(uuid "67b56638-6dd8-4a93-aa30-89b5ca5ce8ce")
+	)
+	(wire
+		(pts
+			(xy 123.19 44.45) (xy 138.43 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "681c829b-ff7d-4aeb-ba1c-3d0533741cf5")
+	)
+	(wire
+		(pts
+			(xy 78.74 116.84) (xy 90.17 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a1accef-ad6a-479a-a4ca-399601d04de4")
 	)
 	(wire
 		(pts
@@ -4002,6 +4014,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 39.37) (xy 140.97 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "777c90ae-d854-4d8b-a2a5-344c0d3543f1")
+	)
+	(wire
+		(pts
 			(xy 212.09 87.63) (xy 194.31 87.63)
 		)
 		(stroke
@@ -4082,16 +4104,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 128.27) (xy 143.51 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85197cab-ee43-47cb-bf90-dba427396b97")
-	)
-	(wire
-		(pts
 			(xy 80.01 91.44) (xy 82.55 91.44)
 		)
 		(stroke
@@ -4129,16 +4141,6 @@
 			(type default)
 		)
 		(uuid "89c6061a-d046-400e-855e-79ff41c50057")
-	)
-	(wire
-		(pts
-			(xy 140.97 41.91) (xy 140.97 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8aa88129-4e01-41a1-aa91-2338076137e1")
 	)
 	(wire
 		(pts
@@ -4182,6 +4184,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 46.99) (xy 137.16 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93d2c908-fb32-4358-a5a5-e5be8a146d04")
+	)
+	(wire
+		(pts
 			(xy 80.01 81.28) (xy 82.55 81.28)
 		)
 		(stroke
@@ -4189,6 +4201,16 @@
 			(type default)
 		)
 		(uuid "961988c0-456e-4b27-bdcd-1f6b3f65d4d1")
+	)
+	(wire
+		(pts
+			(xy 123.19 41.91) (xy 139.7 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98d3cd33-6e16-47a4-aea1-ae5279c03c68")
 	)
 	(wire
 		(pts
@@ -4282,7 +4304,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 92.71) (xy 144.78 92.71)
+			(xy 147.32 92.71) (xy 140.97 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4299,16 +4321,6 @@
 			(type default)
 		)
 		(uuid "aacf6180-fcef-4fb7-b368-3d6b885fa6ea")
-	)
-	(wire
-		(pts
-			(xy 78.74 113.03) (xy 90.17 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac5ae921-5c53-41b7-8a22-c5ccad892492")
 	)
 	(wire
 		(pts
@@ -4502,7 +4514,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 46.99) (xy 143.51 88.9)
+			(xy 139.7 41.91) (xy 139.7 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4532,13 +4544,23 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 140.97) (xy 139.7 113.03)
+			(xy 139.7 113.03) (xy 139.7 140.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cbd215db-fd9f-48ed-b4b2-2960549444bd")
+	)
+	(wire
+		(pts
+			(xy 138.43 128.27) (xy 138.43 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbdce1b4-e678-4be5-aa86-f8ca479260d5")
 	)
 	(wire
 		(pts
@@ -4562,7 +4584,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 88.9) (xy 146.05 88.9)
+			(xy 139.7 88.9) (xy 146.05 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4632,13 +4654,23 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 116.84) (xy 90.17 116.84)
+			(xy 138.43 134.62) (xy 143.51 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "de0721cf-44ba-406f-afcc-5c1bfa1cc321")
+		(uuid "daeb3545-0b5b-40aa-98d3-81c801b3f696")
+	)
+	(wire
+		(pts
+			(xy 140.97 109.22) (xy 140.97 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddc9c784-4448-4e9f-a079-988806852664")
 	)
 	(wire
 		(pts
@@ -4652,13 +4684,13 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 44.45) (xy 142.24 44.45)
+			(xy 142.24 130.81) (xy 142.24 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e0aa366c-e03a-4537-9fbf-ac14ba0aa0e1")
+		(uuid "e116c41d-d025-4219-9675-95bb2bec64f5")
 	)
 	(wire
 		(pts
@@ -4669,6 +4701,16 @@
 			(type default)
 		)
 		(uuid "e4a985fc-5c7d-4cdd-913b-fddadf0f3bfd")
+	)
+	(wire
+		(pts
+			(xy 132.08 128.27) (xy 138.43 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e53b2ae7-62f4-4053-9286-c487064d5395")
 	)
 	(wire
 		(pts
@@ -4689,16 +4731,6 @@
 			(type default)
 		)
 		(uuid "e934c25e-a420-49be-90de-33bba941f467")
-	)
-	(wire
-		(pts
-			(xy 142.24 90.17) (xy 142.24 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9f9a4a0-c476-4dfd-b40c-c4d1ef82b4e0")
 	)
 	(wire
 		(pts
@@ -4732,7 +4764,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 124.46) (xy 143.51 124.46)
+			(xy 142.24 130.81) (xy 143.51 130.81)
 		)
 		(stroke
 			(width 0)
@@ -4742,7 +4774,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 55.88) (xy 194.31 55.88)
+			(xy 137.16 55.88) (xy 194.31 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4772,7 +4804,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 92.71) (xy 144.78 90.17)
+			(xy 140.97 39.37) (xy 140.97 92.71)
 		)
 		(stroke
 			(width 0)
@@ -5165,7 +5197,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 73.66 116.84 180)
+		(at 73.66 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5173,10 +5205,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0f8723a5-093b-442f-9dce-71c6782e0bd4")
 		(property "Reference" "Button_ALARM2"
-			(at 73.66 124.46 0)
+			(at 73.66 106.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5186,7 +5217,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 73.66 121.92 0)
+			(at 73.66 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5196,7 +5227,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 73.66 121.92 0)
+			(at 73.66 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5207,7 +5238,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 121.92 0)
+			(at 73.66 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5218,7 +5249,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 73.66 116.84 0)
+			(at 73.66 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5422,7 +5453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b0ddf93-fbe2-4338-99db-3958165ae048")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 95.25 168.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5484,7 +5515,7 @@
 		(instances
 			(project "Projet_Réveil_électronique"
 				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -5492,7 +5523,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 153.67 128.27 90)
+		(at 153.67 134.62 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5503,7 +5534,7 @@
 		(fields_autoplaced yes)
 		(uuid "1dcbbd6e-cda2-4e48-8b0d-00fe77e202a1")
 		(property "Reference" "#PWR022"
-			(at 160.02 128.27 0)
+			(at 160.02 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5514,7 +5545,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 157.48 128.2701 90)
+			(at 157.48 134.6201 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5525,7 +5556,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 128.27 0)
+			(at 153.67 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5536,7 +5567,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 128.27 0)
+			(at 153.67 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5547,7 +5578,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 128.27 0)
+			(at 153.67 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5803,85 +5834,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 35.56 25.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "276d9c03-92ba-4340-b319-7b1808e06f50")
-		(property "Reference" "#PWR08"
-			(at 35.56 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 35.56 30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 35.56 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 35.56 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "73d2aaac-5413-42df-8cfb-2b9ea2e07098")
-		)
-		(instances
-			(project "Projet_Réveil_électronique"
-				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 153.67 124.46 90)
+		(at 153.67 130.81 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5892,7 +5845,7 @@
 		(fields_autoplaced yes)
 		(uuid "2afeaf75-d3fa-4eec-8459-22fa2c8cf008")
 		(property "Reference" "#PWR021"
-			(at 160.02 124.46 0)
+			(at 160.02 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5903,7 +5856,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 157.48 124.4601 90)
+			(at 157.48 130.8101 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5914,7 +5867,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 124.46 0)
+			(at 153.67 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5925,7 +5878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 124.46 0)
+			(at 153.67 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5936,7 +5889,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 153.67 124.46 0)
+			(at 153.67 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5953,6 +5906,84 @@
 			(project "Projet_Réveil_électronique"
 				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 140.97 109.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "35b28365-2b33-4cc3-9bef-ca77bdecf671")
+		(property "Reference" "#PWR027"
+			(at 147.32 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 143.764 109.22 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 140.97 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 140.97 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6aa6a5b2-fde0-4500-8551-87cee3f0315e")
+		)
+		(instances
+			(project "Projet_Réveil_électronique"
+				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -6583,83 +6614,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 24.13 25.4 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "559e759b-bd82-48d2-8b2c-5b609412b3bd")
-		(property "Reference" "#PWR07"
-			(at 24.13 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 24.13 30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 24.13 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 24.13 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 24.13 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e9aea3ee-e52c-4990-9db0-6157610c2a21")
-		)
-		(instances
-			(project "Projet_Réveil_électronique"
-				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
-					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 137.16 113.03 0)
 		(unit 1)
@@ -6738,7 +6692,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 148.59 124.46 0)
+		(at 148.59 130.81 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6746,10 +6700,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "60aceeea-8077-43e4-add6-f46e432d318d")
 		(property "Reference" "Button_PLUS4"
-			(at 148.59 116.84 0)
+			(at 148.59 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6759,7 +6712,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 148.59 119.38 0)
+			(at 148.59 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6769,7 +6722,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 148.59 119.38 0)
+			(at 148.59 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6780,7 +6733,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 119.38 0)
+			(at 148.59 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6791,7 +6744,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 148.59 124.46 0)
+			(at 148.59 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7621,84 +7574,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 24.13 25.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "943dd03a-37f2-4c34-8bb5-915d37c1d14f")
-		(property "Reference" "#FLG01"
-			(at 24.13 23.495 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 24.13 20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-24_W7.62mm"
-			(at 24.13 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 24.13 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 24.13 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "34a38d01-a8bd-4318-b52c-6692104bd81b")
-		)
-		(instances
-			(project "Projet_Réveil_électronique"
-				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
-					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 68.58 101.6 0)
 		(unit 1)
@@ -7947,7 +7822,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 148.59 128.27 180)
+		(at 148.59 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7955,10 +7830,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ad36d4dc-fc45-4d5c-a7f1-ad4d16c978b7")
 		(property "Reference" "Button_MINUS3"
-			(at 148.59 135.89 0)
+			(at 148.59 136.906 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7968,7 +7842,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 148.59 133.35 0)
+			(at 148.59 139.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7978,7 +7852,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 148.59 133.35 0)
+			(at 148.59 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +7863,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 133.35 0)
+			(at 148.59 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,7 +7874,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 148.59 128.27 0)
+			(at 148.59 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8268,7 +8142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be5f4422-fb68-4c2d-9d1c-3af4c4a215e3")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 115.57 143.51 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8330,7 +8204,7 @@
 		(instances
 			(project "Projet_Réveil_électronique"
 				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8771,84 +8645,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 35.56 25.4 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc3dfb1f-ed61-457e-af83-ff85d9a76316")
-		(property "Reference" "#FLG02"
-			(at 35.56 23.495 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 35.56 20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-24_W7.62mm"
-			(at 35.56 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 35.56 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4670a89f-9be7-4a36-9603-8fe0eb3e47a0")
-		)
-		(instances
-			(project "Projet_Réveil_électronique"
-				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
-					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 60.96 142.24 0)
 		(unit 1)
@@ -9007,7 +8803,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 73.66 113.03 0)
+		(at 73.66 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9015,10 +8811,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "df98d46f-bcdd-4c76-979c-73656cb951c7")
 		(property "Reference" "Button_SET1"
-			(at 73.66 105.41 0)
+			(at 73.66 118.872 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9028,7 +8823,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 73.66 107.95 0)
+			(at 73.66 121.412 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9038,7 +8833,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 73.66 107.95 0)
+			(at 73.66 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9049,7 +8844,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 107.95 0)
+			(at 73.66 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9060,7 +8855,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 73.66 113.03 0)
+			(at 73.66 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9080,6 +8875,83 @@
 			(project "Projet_Réveil_électronique"
 				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
 					(reference "Button_SET1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 139.7 113.03 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e1f7e50c-6a59-4b94-86ca-deaf38a23b77")
+		(property "Reference" "#PWR026"
+			(at 135.89 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 145.288 113.03 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 139.7 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6f349a37-df38-4905-9801-270b9443ee2b")
+		)
+		(instances
+			(project "Projet_Réveil_électronique"
+				(path "/dea91937-1d67-4153-9b4e-db1b7e78dad5"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
